@@ -559,9 +559,9 @@ body {
     gap: 16px;
   }
 
-  /* .features img {
+  .features img {
     transform: rotate(90deg);
-  } */
+  }
 
   .feature-item {
     max-width: 90%;
