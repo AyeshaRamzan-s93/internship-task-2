@@ -425,12 +425,7 @@ body {
     line-height: 32px;
   }
 }
-@media (min-width: 768px) and (max-width: 1366px) {
-  .features-grid{
-    grid-template-columns: repeat(2,1fr);
-  }
-  
-}
+
 
 /* For Phone */
 @media (max-width: 767px) {
